@@ -1,0 +1,21 @@
+# ignore virtual environments
+venv/
+env/
+Venv/
+
+
+# Ignore .env variable
+.env
+
+# Ignore cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc 
+
+# === VSCode or other editor folders ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
